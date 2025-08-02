@@ -1,0 +1,7 @@
+site_name: FletGlossy
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings

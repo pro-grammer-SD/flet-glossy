@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/flet_glossy/__init__.py
+src/flet_glossy/flet_glossy.py
+src/flet_glossy.egg-info/PKG-INFO
+src/flet_glossy.egg-info/SOURCES.txt
+src/flet_glossy.egg-info/dependency_links.txt
+src/flet_glossy.egg-info/requires.txt
+src/flet_glossy.egg-info/top_level.txt
+src/flutter/flet_glossy/CHANGELOG.md
+src/flutter/flet_glossy/LICENSE
+src/flutter/flet_glossy/README.md
+src/flutter/flet_glossy/pubspec.lock
+src/flutter/flet_glossy/pubspec.yaml
+src/flutter/flet_glossy/lib/flet_glossy.dart
+src/flutter/flet_glossy/lib/src/create_control.dart
+src/flutter/flet_glossy/lib/src/flet_glossy.dart
